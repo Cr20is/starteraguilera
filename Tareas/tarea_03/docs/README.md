@@ -15,4 +15,4 @@ Para experimentar le cambié el color al fondo con style y background-color.
 
 Cabe mencionar que diseñé las secciones con uno de los ejemplos disponibles y las etiquetas de color y tamaño de imágenes las busqué en internet.
 
-
+https://cr20is.github.io/starteraguilera/
